@@ -12,3 +12,4 @@ window.mainloop()
 print("ehel")
 ''
 
+print("heje")
